@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "name": "pramodbodapati",
+    "repository": "angular"
+  }
+   "likes: : [
+	{
+	"id": 1,
+	"subject": "Java"
+	},
+	{
+	 "id": 2,
+	 "subject" : "JavaScript" 
+	]
+    
+}
